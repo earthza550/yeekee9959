@@ -1,0 +1,17 @@
+{
+  "name": "ppoppp99",
+  "theme": "syntax",
+  "version": "1.0.27",
+  "description": "หวยยี่กี ruay หวยยี่กี คือ หวยยี่กี เล่นยังไง หวยยี่กีรวย หวยยอดฮิตที่เล่นได้ถึง 88 รอบต่อวัน",
+  "keywords": [
+    "หวยยี่กี",
+    "หวยยี่กี RUAY",
+    "หวยยี่กีเล่นยังไง",
+    "ยี่กีเว็บรวย"
+  ],
+  "repository": "https://github.com/earthza550/yeekee9959",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
